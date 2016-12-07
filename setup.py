@@ -44,7 +44,7 @@ setup(name='django-accounting',
           # Date utilities
           'python-dateutil>=2.2,<2.3',
           # Select2
-          'django-select2>==4.3.2',
+          'django-select2==4.3.2',
       ],
       # See http://pypi.python.org/pypi?%3Aaction=list_classifiers
       classifiers=[
